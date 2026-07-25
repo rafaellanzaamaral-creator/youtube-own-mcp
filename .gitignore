@@ -1,0 +1,10 @@
+client_secret.json
+credentials/
+*.json
+!credentials/.gitkeep
+token.json
+.env
+venv/
+__pycache__/
+*.pyc
+.DS_Store
